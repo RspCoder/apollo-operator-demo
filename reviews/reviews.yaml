@@ -9,5 +9,5 @@ spec:
   endpoint: http://reviews
   schema:
     ociImage:
-      reference: ghcr.io/RspCoder/reviews:latest
+      reference: ghcr.io/rspcoder/reviews:latest
       path: /app/schema.graphql
