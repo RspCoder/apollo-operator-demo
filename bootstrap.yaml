@@ -11,7 +11,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/RspCoder/apollo-operator-demo
+    repoURL: https://github.com/rspcoder/apollo-operator-demo
     path: apps
     targetRevision: main
   destination:
