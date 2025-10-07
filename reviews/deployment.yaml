@@ -30,7 +30,7 @@ spec:
         app: reviews
     spec:
       containers:
-        - image: ghcr.io/RspCoder/reviews:latest
+        - image: ghcr.io/rsp-vg-graph/reviews:latest
           name: reviews
           ports:
             - containerPort: 4000
